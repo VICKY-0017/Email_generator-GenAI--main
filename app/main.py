@@ -6,6 +6,7 @@ from chains import Chain
 from portfolio import Portfolio
 from utils import clean_text
 
+
 # 🔥 Streamlit Page Configuration
 st.set_page_config(
     layout="centered",
