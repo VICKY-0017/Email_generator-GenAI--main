@@ -1,0 +1,4 @@
+groqclod_API_key = "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"
+
+
+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
